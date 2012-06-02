@@ -1,5 +1,6 @@
 .project
 .settings
+db
 eclipse
 modules
 nbproject
